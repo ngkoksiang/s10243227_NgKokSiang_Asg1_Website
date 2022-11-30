@@ -1,3 +1,6 @@
+body{
+    background-color: whitesmoke;
+}
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -5,10 +8,11 @@
 
 .topnav input, .topnav button  {
     float: left;
-    padding: 6px;
-    border: none;
-    margin: 8px;
+    padding: 7px;
+    border: white;
+    margin: 10px;
     font-size: 17px;
+    border-radius: 50px;
 }
 
 
@@ -48,6 +52,7 @@
 .column1{
     padding:10%;
     width: 28%;
+    font-size: 20px;
 }
 
 #left-side {
