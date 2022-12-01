@@ -1,3 +1,12 @@
+body{
+    background-color: whitesmoke;
+    background-image: url(images/background.gif);
+    background-size: cover;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
 .topnav input, .topnav button  {
     float: left;
     padding: 7px;
@@ -6,11 +15,6 @@
     font-size: 17px;
     border-radius: 50px;
 }
-.topnav {
-    background-color: #333;
-    overflow: hidden;
-}
-
 .topnav a {
     float: right;
     color: white;
@@ -19,6 +23,35 @@
     text-decoration: none;
     font-size: 16px;
 }
-body{
-    background-color: whitesmoke;
+.sbdintro{
+    width: 50%;
+    height:300px;
+    float:left;
+}
+.sbdintro2{
+    width: 50%;
+    height:300px;
+    float:right;
+}
+.ipfworld{
+    position:relative;
+    top:200px;
+}
+
+.container{
+    display:flexbox;
+
+}
+
+.sbddesc{
+    position: relative;
+    top: 70px;
+    float:left;
+    border: 1px solid red;
+    background-color: black;
+    opacity: 0.6;
+    color:white;
+    justify-content: center;
+    padding: 20px;
+    font-size: 25px;
 }

@@ -32,3 +32,10 @@ Unlike using a pen and paper to draw and write on a piece of paper, I cannot con
 
 /Inspiration/
 I got the inspiration from a mix of the different personal blogs I have encountered before, and also from the documentation page of amazon. I took inspiration from documentation sites as they are websites that contain large amount of text and that is a feature that will be present in my personal blog. I wanted to find existing examples of web pages that are already designed to hold large amount of text to lessen the burden of coming up with new ideas.
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Fwhite-waves%2F&psig=AOvVaw2uhMMSs8bwSA_GhpP_eSIs&ust=1669955585083000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOin97_L1_sCFQAAAAAdAAAAABAD
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sfu.
+ca%2Fsiat%2Fstudent_projects%2Fiat339%2Fmrobl%2Fiat-339-p2-sbd%2Fpublic_html%2Fproducts.html&psig=AOvVaw0BvQUnKw8d3h7GQqoDHmWO&ust=1669955718749000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOi_oIPM1_sCFQAAAAAdAAAAABAE
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.sv08gewichtheben.de%2Fbreitensport&psig=AOvVaw0_piwJznXsuikSqo6gs2qq&ust=1669991319782000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjwptTQ2PsCFQAAAAAdAAAAABAM
