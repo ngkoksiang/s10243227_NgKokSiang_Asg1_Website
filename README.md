@@ -39,3 +39,19 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sfu.
 ca%2Fsiat%2Fstudent_projects%2Fiat339%2Fmrobl%2Fiat-339-p2-sbd%2Fpublic_html%2Fproducts.html&psig=AOvVaw0BvQUnKw8d3h7GQqoDHmWO&ust=1669955718749000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOi_oIPM1_sCFQAAAAAdAAAAABAE
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.sv08gewichtheben.de%2Fbreitensport&psig=AOvVaw0_piwJznXsuikSqo6gs2qq&ust=1669991319782000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjwptTQ2PsCFQAAAAAdAAAAABAM
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEQNT__3BCg0&psig=AOvVaw12tNsArzeHEBXMFy1cDLWs&ust=1669994665836000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCMgc7d2PsCFQAAAAAdAAAAABAD
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbarbend.com%2Fpowerlifter-tiffany-chapon-raw-squat-165-kilograms%2F&psig=AOvVaw3uVu1BPmYEDUmUyMPAlKhT&ust=1669993533024000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCflPLY2PsCFQAAAAAdAAAAABAD
+
+linkedinicon:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTimeline_of_LinkedIn&psig=AOvVaw04oROMd4eeofKvsZYH_tdM&ust=1670052498793000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjZsea02vsCFQAAAAAdAAAAABAD
+
+facebookicon:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFacebook_F_icon.svg&psig=AOvVaw0W7xBJkNjT2_p2gEW5y98h&ust=1670056091534000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiJhfTB2vsCFQAAAAAdAAAAABAJ 
+
+twittericon:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ftwitter_124021&psig=AOvVaw3DgfSs3KkkGxIpTY021eZr&ust=1670053771729000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiIsK652vsCFQAAAAAdAAAAABAD
+
+instagramicon:
+https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1669971444~exp=1669972044~hmac=b682ee61e3d93d34d9c31b6cc8a474610de97458cde54062f106d73bf960eb6e
