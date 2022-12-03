@@ -55,3 +55,17 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2
 
 instagramicon:
 https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1669971444~exp=1669972044~hmac=b682ee61e3d93d34d9c31b6cc8a474610de97458cde54062f106d73bf960eb6e
+
+cheesecake:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Frasamalaysia.com%2Fjapanese-cheesecake-recipe%2F&psig=AOvVaw3ZcAW7La0PcgA3OocvpINd&ust=1670072612932000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLic3rr_2vsCFQAAAAAdAAAAABAD
+https://runawayrice.com/desserts/cotton-cheesecake-japanese-cheesecake/
+
+pancake:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapshot.canon-asia.com%2Farticle%2Feng%2F3-ways-to-elevate-your-food-photography-with-canon-eos-r&psig=AOvVaw09zFxsn6KVfJ3c_V39ISnC&ust=1670079045133000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjY-LaX2_sCFQAAAAAdAAAAABAT
+https://en.wikipedia.org/wiki/Pancake
+mj:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMichael_Jackson&psig=AOvVaw3Vx2E6dT24XRtKR3DcXiEg&ust=1670145966997000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJi8iN6Q3fsCFQAAAAAdAAAAABAb
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fmusic-background-dark-vinyl-record-wallpaper-brvkf&psig=AOvVaw0w-pYEV3xCTOuyA0GW-lPF&ust=1670147803811000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjq-suX3fsCFQAAAAAdAAAAABAI
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZi_XLOBDo_Y%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZi_XLOBDo_Y&tbnid=e8PRubwKdTViRM&vet=12ahUKEwitvc23m937AhUbjNgFHRExCuUQMygNegUIARDqAQ..i&docid=z6QRfAk-knZEkM&w=1280&h=720&q=billie%20jean%20lyrics&hl=en&ved=2ahUKEwitvc23m937AhUbjNgFHRExCuUQMygNegUIARDqAQ
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoRdxUFDoQe0%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoRdxUFDoQe0&tbnid=AzIpGs7fADPlxM&vet=12ahUKEwj42_zZm937AhW9mdgFHfAwBtgQMygAegUIARDhAQ..i&docid=NAFdNn6eVApCoM&w=1280&h=720&itg=1&q=beat%20it&hl=en&ved=2ahUKEwj42_zZm937AhW9mdgFHfAwBtgQMygAegUIARDhAQ
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FICXNWceWRB0%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DICXNWceWRB0&tbnid=pMqgEjXi2I_otM&vet=12ahUKEwjD-ez8m937AhVQlNgFHfiTAkcQMygEegUIARDqAQ..i&docid=fbbVTkSBKl3HJM&w=1280&h=720&q=man%20in%20the%20mirror&hl=en&ved=2ahUKEwjD-ez8m937AhVQlNgFHfiTAkcQMygEegUIARDqAQ
