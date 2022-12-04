@@ -33,7 +33,7 @@ Unlike using a pen and paper to draw and write on a piece of paper, I cannot con
 /Inspiration/
 I got the inspiration from a mix of the different personal blogs I have encountered before, and also from the documentation page of amazon. I took inspiration from documentation sites as they are websites that contain large amount of text and that is a feature that will be present in my personal blog. I wanted to find existing examples of web pages that are already designed to hold large amount of text to lessen the burden of coming up with new ideas.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Fwhite-waves%2F&psig=AOvVaw2uhMMSs8bwSA_GhpP_eSIs&ust=1669955585083000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOin97_L1_sCFQAAAAAdAAAAABAD
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwhite-background&psig=AOvVaw1EfTi8SD5tgJAMNZ9p0noo&ust=1670232926069000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiRq9nU3_sCFQAAAAAdAAAAABAb
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sfu.
 ca%2Fsiat%2Fstudent_projects%2Fiat339%2Fmrobl%2Fiat-339-p2-sbd%2Fpublic_html%2Fproducts.html&psig=AOvVaw0BvQUnKw8d3h7GQqoDHmWO&ust=1669955718749000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOi_oIPM1_sCFQAAAAAdAAAAABAE
@@ -69,3 +69,12 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fmusic
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZi_XLOBDo_Y%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZi_XLOBDo_Y&tbnid=e8PRubwKdTViRM&vet=12ahUKEwitvc23m937AhUbjNgFHRExCuUQMygNegUIARDqAQ..i&docid=z6QRfAk-knZEkM&w=1280&h=720&q=billie%20jean%20lyrics&hl=en&ved=2ahUKEwitvc23m937AhUbjNgFHRExCuUQMygNegUIARDqAQ
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoRdxUFDoQe0%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoRdxUFDoQe0&tbnid=AzIpGs7fADPlxM&vet=12ahUKEwj42_zZm937AhW9mdgFHfAwBtgQMygAegUIARDhAQ..i&docid=NAFdNn6eVApCoM&w=1280&h=720&itg=1&q=beat%20it&hl=en&ved=2ahUKEwj42_zZm937AhW9mdgFHfAwBtgQMygAegUIARDhAQ
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FICXNWceWRB0%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DICXNWceWRB0&tbnid=pMqgEjXi2I_otM&vet=12ahUKEwjD-ez8m937AhVQlNgFHfiTAkcQMygEegUIARDqAQ..i&docid=fbbVTkSBKl3HJM&w=1280&h=720&q=man%20in%20the%20mirror&hl=en&ved=2ahUKEwjD-ez8m937AhVQlNgFHfiTAkcQMygEegUIARDqAQ
+
+game:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.global-esports.news%2Fleague-of-legends%2Fall-the-changes-in-season-12-of-league-of-legends%2F&psig=AOvVaw0jfgpV9kEBIbK6kFfy17C-&ust=1670232125327000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCICdn9bR3_sCFQAAAAAdAAAAABAH
+https://en.wikipedia.org/wiki/League_of_Legends
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F1838408-abstract-background-modern-technology-white-and-gray-square-geometric-overlapping-lines&psig=AOvVaw0DyFORKYgJibbcI9PvD8ix&ust=1670233167132000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMivjsvV3_sCFQAAAAAdAAAAABAj
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fhearthstone.blizzard.com%2Fen-gb&psig=AOvVaw3arrpFUeDKKQi426DWb_t7&ust=1670233767535000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC_ovXX3_sCFQAAAAAdAAAAABAD
+https://en.wikipedia.org/wiki/Hearthstone
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Ffeedback%2F&psig=AOvVaw2I5mNcKKbayAJniykzZJpg&ust=1670249520875000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDi476S4PsCFQAAAAAdAAAAABAD
